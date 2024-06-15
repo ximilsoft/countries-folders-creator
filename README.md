@@ -1,29 +1,28 @@
-# Multi-Regional Folders Creator
+# Countries Folders Creator
 
-Automates the creation of country folders named using their ISO alpha-2 code. Inside each folder, it creates a text file named after the country.
+Automates the creation of country folders named using their ISO alpha-2 code. Inside each folder a text file is named after the country.
 
-
-![Graph API Explorer](img.png)
+![Graph API Explorer](preview.png)
 
 ## Installation
 
 1. Clone the repository or download it:
 
    ```shell
-   git clone https://github.com/ximilsoft/multi-regional-folders-creator
+   git clone https://github.com/ximilsoft/countries-folders-creator
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd multi-regional-folders-creator
+   cd countries-folders-creator
    ```
 
 3. run in your terminal **`python main.py`**.
 
 ## Getting Help
 
-If you have any questions or need assistance, feel free to [open an issue](https://github.com/ximilsoft/multi-regional-folders-creator/issues) on GitHub.
+If you have any questions or need assistance, feel free to [open an issue](https://github.com/ximilsoft/countries-folders-creator/issues) on GitHub.
 
 ## Support
 
